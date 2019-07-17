@@ -30,6 +30,5 @@ public class WebClientResource {
         System.out.println(str);
 
         return str;
-
     }
 }
